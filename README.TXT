@@ -16,3 +16,5 @@ Nota: O ficheiro com os dados a carregar durante a apresentação encontra-se ju
       filipa@gmail.com
       joao@gmail.com
       carolina@gmail.com
+
+Nota Final: 15
